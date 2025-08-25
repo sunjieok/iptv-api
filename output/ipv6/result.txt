@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-25 06:42:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-08-25 18:47:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -8,6 +8,7 @@ CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源
